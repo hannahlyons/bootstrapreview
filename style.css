@@ -26,3 +26,61 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(200,174,71,1) 35%, rg
     height:100%;
     width:100%;
     }
+    .contentpic{
+        height: 600px;
+        width: 600px;
+    }
+    .feature{
+        color: white;
+
+    }
+    .feature ul{
+        padding-left: 2rem;
+        list-style-type: none;
+    }
+    .feauture ul li {
+        padding-left: 2rem;
+        line-height: 1.5rem;
+        margin-bottom: 1rem;
+    }
+    .icon{
+        color: white;
+        height: 5rem;
+        width: 5rem;
+        font-size: 1.75rem;
+        border-radius: 100%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .gallery{
+        background-color: whitesmoke;
+    }
+    .gallery img{
+        border-radius: 5%;
+    }
+    .serviceimg{
+        height: 300px;
+        width: 300px;
+    }
+    .service{
+        color: white;
+       
+    }
+    .contactimg{
+        height: 300px;
+        width: 300px;
+    }
+    footer{
+        color: white;
+        font-size: 1rem;
+        margin: 0;
+        padding: 1rem;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    .col-md-5 img{
+        align-items: flex-end;
+    }
